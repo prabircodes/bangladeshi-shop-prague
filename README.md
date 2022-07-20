@@ -12,3 +12,7 @@
     c. Add main section
     d. Add Footer
     e. Add Tailwind Classes
+6.  List Products
+    a. Add data.js
+    b. Add images
+    c. render products
