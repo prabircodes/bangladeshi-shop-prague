@@ -56,15 +56,15 @@ const data = {
       description: 'Fresh rice straight from bangladesh',
     },
     {
-      name: 'dal',
-      slug: 'dal',
+      name: 'Musur dal',
+      slug: 'musur-dal',
       category: 'grocery',
       image: '/images/dal1.jpg',
       brand: 'Fresh',
       rating: '4.3',
       numReviews: 9,
       countInStock: 25,
-      description: 'Fresh daal straight from bangladesh',
+      description: 'Fresh Musur daal straight from bangladesh',
     },
   ],
 }
